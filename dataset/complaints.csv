@@ -1,0 +1,89 @@
+complaint,category
+"WiFi is not working in the computer lab",Technology
+"Internet connection is very slow in college",Technology
+"Projector is not working in classroom",Technology
+"Computer systems are not starting",Technology
+"College website is not opening",Technology
+"Online attendance system is not working",Technology
+"Smart board is not working properly",Technology
+"Printer is not working in the computer lab",Technology
+"Bus is arriving late every day",Transport
+"College bus is overcrowded",Transport
+"Bus seats are damaged",Transport
+"Bus route is not convenient",Transport
+"Bus driver is driving rashly",Transport
+"Road near college is damaged",Infrastructure
+"Classroom lights are not working",Infrastructure
+"Washrooms are not clean",Infrastructure
+"Classroom fans are not working",Infrastructure
+"College building needs maintenance",Infrastructure
+"Library has insufficient books",Academics
+"Teachers are not completing the syllabus",Academics
+"Timetable is not properly managed",Academics
+"Exam schedule is confusing",Academics
+"Students need more practical sessions",Academics
+"Lab equipment is insufficient for practicals",Academics
+"Canteen food is not fresh",Canteen
+"Food prices are too high in the canteen",Canteen
+"Drinking water is not available in canteen",Canteen
+"Canteen is not maintaining cleanliness",Canteen
+"Food quality is very poor",Canteen
+"More food options are needed in canteen",Canteen
+"My laptop is not connecting to WiFi",Technology
+"Internet is not available in the computer lab",Technology
+"Network connection failed in the laboratory",Technology
+"Computer is showing a system error",Technology
+"Software is not opening on the computer",Technology
+"Unable to access the college online portal",Technology
+"WiFi password is not working",Technology
+"Computer keyboard and mouse are not working",Technology
+"Technical issue with the projector",Technology
+"Online examination software is not responding",Technology
+"The college bus is always late",Transport
+"Bus service is not available on time",Transport
+"College bus has broken down",Transport
+"Bus conductor is behaving rudely",Transport
+"Bus stops are not properly maintained",Transport
+"College bus is overcrowded during morning",Transport
+"Bus is not following the scheduled route",Transport
+"Students are facing problems with bus facilities",Transport
+"Bus is not available for evening students",Transport
+"Transportation facility is very poor",Transport
+"College bus needs regular maintenance",Transport
+"Bus timing information is not provided",Transport
+"Classroom benches are broken",Infrastructure
+"College building has water leakage",Infrastructure
+"Classroom doors are damaged",Infrastructure
+"College corridors are not clean",Infrastructure
+"Ceiling fans are not working in classrooms",Infrastructure
+"Lights are missing in the laboratory",Infrastructure
+"College washrooms need repair",Infrastructure
+"Drinking water facility is damaged",Infrastructure
+"Classroom windows are broken",Infrastructure
+"College parking area is poorly maintained",Infrastructure
+"Laboratory furniture is damaged",Infrastructure
+"College drainage system is not working",Infrastructure
+"Teachers are not explaining topics clearly",Academics
+"Students need additional classes",Academics
+"Study materials are not provided",Academics
+"Internal marks are not updated",Academics
+"Exam timetable is not announced",Academics
+"Practical classes are not conducted regularly",Academics
+"Students need more coding classes",Academics
+"Assignment deadlines are not clear",Academics
+"Academic syllabus is not completed",Academics
+"Faculty members are not available for doubts",Academics
+"Library study hours are insufficient",Academics
+"Students need extra academic support",Academics
+"Canteen food is served cold",Canteen
+"Food is not hygienically prepared",Canteen
+"Canteen tables are dirty",Canteen
+"Not enough seating space in canteen",Canteen
+"Tea and snacks are not available",Canteen
+"Canteen staff are behaving rudely",Canteen
+"Food quantity is very less",Canteen
+"More vegetarian food options are needed",Canteen
+"Canteen is overcrowded during lunch",Canteen
+"Drinking water is not clean in canteen",Canteen
+"Food is not served on time",Canteen
+"Canteen needs better cleanliness",Canteen
