@@ -53,5 +53,5 @@ Colleges receive different types of student complaints. Manually sorting these c
 - Add student and admin login
 - Add email notifications
 
-## Developed By
-AIML Student Project
+## Author
+Sakshi C H
